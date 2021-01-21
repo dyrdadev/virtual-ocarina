@@ -14,10 +14,9 @@ public class FluteKey : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
         Three = 4,
         Four = 8
     }
-
+    
     [SerializeField] private id mask;
     [SerializeField] private Flute flute;
-
 
     public void OnPointerDown(PointerEventData eventData)
     {

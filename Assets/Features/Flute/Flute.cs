@@ -51,8 +51,7 @@ public class Flute : MonoBehaviour
                 SoloAudioSource(7);
                 break;
         }
-
-        Debug.Log(GetCurrentVolume() + " / " + MicrophoneInput.MicLoudness);
+        
         var tempColor = blowIndicator.color;
         tempColor.a = GetCurrentVolume();
         blowIndicator.color = tempColor;
@@ -67,7 +66,7 @@ public class Flute : MonoBehaviour
                 if (i == index)
                 {
                     audiosources[i].mute = false;
-                    if (MicrophoneInput.MicLoudness > lowerThreshold)
+                    if (MicrophoneInput.MicrophoneLoudness > lowerThreshold)
                     {
                         audiosources[i].volume = GetCurrentVolume();
                     }
@@ -86,7 +85,7 @@ public class Flute : MonoBehaviour
 
     private float GetCurrentVolume()
     {
-        return Mathf.Clamp((MicrophoneInput.MicLoudness - lowerThreshold) / (upperThreshold - lowerThreshold), 0.0f,
+        return Mathf.Clamp((MicrophoneInput.MicrophoneLoudness - lowerThreshold) / (upperThreshold - lowerThreshold), 0.0f,
             1.0f);
     }
 }

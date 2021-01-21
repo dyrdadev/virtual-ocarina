@@ -3,9 +3,8 @@ using UnityEngine.UI;
 
 public class MicrophoneInput : MonoBehaviour
 {
-    public static float MicLoudness => _micLoudness;
-    private static float _micLoudness;
-
+    public static float MicrophoneLoudness => _microphoneLoudness;
+    private static float _microphoneLoudness;
     private bool _isInitialized;
     private AudioSource _AudioSource;
     private int _sampleWindow = 128;
@@ -30,8 +29,7 @@ public class MicrophoneInput : MonoBehaviour
             }
 
             _AudioSource.clip.GetData(waveData, micPosition);
-
-            // comput3e rms:
+            
             rms = 0;
             var counter = 0;
             for (var i = 0; i < _sampleWindow; i++)
@@ -51,7 +49,7 @@ public class MicrophoneInput : MonoBehaviour
 
     private void Update()
     {
-        _micLoudness = RootMeanSquare();
+        _microphoneLoudness = RootMeanSquare();
     }
 
     private void StopMicrophone()
