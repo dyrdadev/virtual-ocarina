@@ -73,13 +73,6 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-    "io.dyrda.singleton-mono-behaviour": {
-      "version": "https://github.com/dyrdaio/singleton-mono-behaviour.git#upm",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "f85e01c2ab05fb7b348f71691e475ffdd2b75860"
-    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
