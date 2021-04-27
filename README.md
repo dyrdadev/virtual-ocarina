@@ -29,18 +29,16 @@ Blow into the microphone to produce sounds. Press the keys to create different t
 </p>
 
 
-## Third Party Content
+## License & Third Party Content
+
+This project is licensed under a MIT license. See the [LICENSE](/LICENSE) file for details.
 
 Many assets of this project were created by other people. Check out the [Third Party Content](/ThirdPartyContent.md) file for details.
 
-## License
+Some assets in this project may be shared under a different license. Check out the README files in the directories and the [Third Party Content](/ThirdPartyContent.md) file for details.
 
-This project is licensed under a MIT license. See the [LICENSE](/LICENSE) file for details. Some assets in this project may be shared under a different license. Check out the README files in the directories and the [Third Party Content](/ThirdPartyContent.md) file for details.
+## Support & Contribute
 
-## Support
+This project was created by [Daniel Dyrda](https://dyrda.io). If you want to support me and my projects, you can follow me on [github (dyrdadev)](https://github.com/dyrdadev) and [twitter (@daniel_dyrda)](https://twitter.com/daniel_dyrda). Just come by and say hello, I would love to hear how you use the project.
 
-This project was created by [Daniel Dyrda](https://dyrda.io). If you want to support me and my projects, you can follow me on [github (dyrdaio)](https://github.com/dyrdaio) and [twitter (@dyrdaio)](https://twitter.com/dyrdaio). Just come by and say hello, I would love to hear how you use the project.
-
-## Contribute
-
-This project was developed by [Daniel Dyrda](https://dyrda.io). If you want to contribute to this project, you are welcome to do so. Just write me and we will find a way to collaborate.
+If you want to contribute to this project, you are welcome to do so. Just write me and we will find a way to collaborate.
