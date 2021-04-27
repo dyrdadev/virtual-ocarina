@@ -7,7 +7,7 @@ The "Virtual Ocarina" is a virtual instrument for mobile platforms that support 
 <p align=center>
     <br>
     <br>
-    <a href="https://github.com/dyrdaio/virtual-ocarina">
+    <a href="https://github.com/dyrdadev/virtual-ocarina">
         <img src="./Media/virtual-ocarina-with-device.png" alt="A device mockup of the virtual ocarina."/>
     </a>
     <br>
@@ -21,7 +21,7 @@ Blow into the microphone to produce sounds. Press the keys to create different t
 <p align=center>
     <br>
     <br>
-    <a href="https://github.com/dyrdaio/virtual-ocarina">
+    <a href="https://github.com/dyrdadev/virtual-ocarina">
         <img src="./Media/tones.png" alt="The key combinations and tones of the virtual ocarina."/>
     </a>
     <br>
