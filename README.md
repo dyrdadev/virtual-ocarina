@@ -31,11 +31,9 @@ Blow into the microphone to produce sounds. Press the keys to create different t
 
 ## License & Third Party Content
 
-This project is licensed under a MIT license. See the [LICENSE](/LICENSE) file for details.
+This project is licensed under a MIT license. See the [LICENSE](/LICENSE) file for details. Some assets in this project may be shared under a different license. Check out the README files in the directories and the [Third Party Content](/ThirdPartyContent.md) file for details.
 
 Many assets of this project were created by other people. Check out the [Third Party Content](/ThirdPartyContent.md) file for details.
-
-Some assets in this project may be shared under a different license. Check out the README files in the directories and the [Third Party Content](/ThirdPartyContent.md) file for details.
 
 ## Support & Contribute
 
