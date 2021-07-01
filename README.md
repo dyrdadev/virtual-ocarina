@@ -1,3 +1,32 @@
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align=center>
+<a href="https://github.com/dyrdadev/virtual-ocarina">
+    <img src="./Media/icon.png" alt="An icon of the Virtual Ocarina project." width="148px"/>
+</a>
+</div>
+<h6 align=center>
+    Virtual Ocarina
+</h6>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 # Virtual Ocarina
 
 > Virtual ocarina flute for mobile platforms.
