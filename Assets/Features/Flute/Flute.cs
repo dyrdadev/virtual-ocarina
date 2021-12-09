@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Linq;
 using System;
-using DyrdaIo.Singleton;
 
 public class Flute : MonoBehaviour
 {
