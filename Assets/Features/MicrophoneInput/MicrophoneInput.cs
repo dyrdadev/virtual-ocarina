@@ -8,7 +8,7 @@ public class MicrophoneInput : MonoBehaviour
     private static float _micLoudness;
 
     private bool _isInitialized;
-    private AudioSource _AudioSource;
+    private AudioSource _audioSource;
     private int _sampleWindow = 128;
 
     private void InitializeMicrophone()
