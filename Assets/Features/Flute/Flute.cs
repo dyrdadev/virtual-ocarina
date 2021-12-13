@@ -8,7 +8,7 @@ using System;
 
 public class Flute : MonoBehaviour
 {
-    [HideInInspector] public int crntKeyMask = 0;
+    //[HideInInspector] public FluteKey.id crntKeyMask = 0;
     private int crntAudioSourceIndex;
 
     [SerializeField] private float lowerThreshold;
