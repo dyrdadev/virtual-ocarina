@@ -6,14 +6,14 @@ public class MicrophoneInput : MonoBehaviour
     public static float MicrophoneLoudness => _microphoneLoudness;
     private static float _microphoneLoudness;
     private bool _isInitialized;
-    private AudioSource _AudioSource;
+    private AudioSource _audioSource;
     private int _sampleWindow = 128;
 
     private void InitializeMicrophone()
     {
-        _AudioSource = GetComponent<AudioSource>();
-        _AudioSource.clip = Microphone.Start(null, true, 10, 44100);
-        _AudioSource.Play();
+        _audioSource = GetComponent<AudioSource>();
+        _audioSource.clip = Microphone.Start(null, true, 10, 44100);
+        _audioSource.Play();
     }
 
     private float RootMeanSquare()
@@ -28,7 +28,7 @@ public class MicrophoneInput : MonoBehaviour
                 return 0;
             }
 
-            _AudioSource.clip.GetData(waveData, micPosition);
+            _audioSource.clip.GetData(waveData, micPosition);
             
             rms = 0;
             var counter = 0;
