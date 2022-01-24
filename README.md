@@ -25,7 +25,7 @@
 
 > Virtual ocarina flute for mobile platforms.
 
-The "Virtual Ocarina" is a virtual instrument for mobile platforms that support multi-touch and microphone input. The project is developed with Unity. It was originally created for use in lectures at the university to teach the principles of simple audio input and bitmasks.
+"Virtual Ocarina" is a virtual instrument for mobile platforms that support multi-touch and microphone input. The project is developed with Unity. It was originally created for use in lectures at the university to teach the principles of simple audio input and bitmasks.
 
 <p align=center>
     <br>
@@ -60,6 +60,6 @@ Many assets of this project were created by other people. Check out the [Third P
 
 ## Support & Contribute
 
-This project was created by [Daniel Dyrda](https://dyrda.io). If you want to support me and my projects, you can follow me on [github (dyrdadev)](https://github.com/dyrdadev) and [twitter (@daniel_dyrda)](https://twitter.com/daniel_dyrda). Just come by and say hello, I would love to hear how you use the project.
+This project was created by [Daniel Dyrda](https://dyrda.page). If you want to support me and my projects, you can follow me on [github (dyrdadev)](https://github.com/dyrdadev) and [twitter (@daniel_dyrda)](https://twitter.com/daniel_dyrda).
 
-If you want to contribute to this project, you are welcome to do so. Just write me and we will find a way to collaborate.
+If you want to contribute to this project, you are welcome to do so. Write me a message and we will find a way to collaborate.
