@@ -60,6 +60,6 @@ Many assets of this project were created by other people. Check out the [Third-P
 
 ## Support & Contribute
 
-This project was created by [Daniel Dyrda](https://dyrda.page). If you want to support me and my projects, you can follow me on [GitHub (dyrdadev)](https://github.com/dyrdadev) and [Twitter (@daniel_dyrda)](https://twitter.com/daniel_dyrda).
+This project was created by [Daniel Dyrda](https://dyrda.page). If you want to support me and my projects, you can follow me on [GitHub (dyrdadev)](https://github.com/dyrdadev) and [Mastodon](https://dyrda.page/contact).
 
 If you want to contribute to this project, you are welcome to do so. Just leave a message and we will find a way to collaborate.
